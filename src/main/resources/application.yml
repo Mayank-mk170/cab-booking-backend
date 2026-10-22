@@ -39,6 +39,8 @@ server:
 app:
   frontend-url: ${FRONTEND_URL:http://localhost:5173}
 
+
+
 #stripe:
 #  secret:
 #    key: pk_test_51SevXhLMmg4j96mNsKPYQxIFCxubiT5YPyMd37Ite23gPJ5Yxt34nFBU0NHOIwScbO6i7icZo4yo90vo3pmfX9EJ00RVH0bUc9
