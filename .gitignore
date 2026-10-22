@@ -32,6 +32,7 @@ build/
 .env
 .env.*
 !.env.example
+target/
 
 ### VS Code ###
 .vscode/
